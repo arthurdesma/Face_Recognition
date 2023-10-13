@@ -19,7 +19,7 @@ Have you ever wondered how Facebook can recognize your friends in photographs? A
 
 ## Required Packages
 
-To complete this project, you will need the following packages:
+To complete this project, I used the following packages:
 
 - [Numpy](http://www.numpy.org)
 - [Keras](https://keras.io)
