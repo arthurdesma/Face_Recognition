@@ -34,7 +34,7 @@ In this project, I have:
 2. **Pose Estimation**: Determine the orientation of a face and correct its pose.
 3. **Face Encoding**: Extract unique features from a face to distinguish it from others.
 4. **Face Recognition**: Compare the features of a face to those in a database and predict the identity.
-5. **Personal Dataset**: Build your own face recognition dataset.
+5. **Personal Dataset**: Build my  own face recognition dataset.
 
 ## Contributing
 
