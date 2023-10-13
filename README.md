@@ -8,11 +8,10 @@ Welcome to the face recognition project! This repository provides a Jupyter note
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Required Packages](#required-packages)
-4. [project Overview](#project-overview)
-5. [Contributing](#contributing)
-6. [License](#license)
+2. [Required Packages](#required-packages)
+3. [project Overview](#project-overview)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 
