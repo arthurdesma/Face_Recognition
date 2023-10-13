@@ -26,8 +26,6 @@ To complete this project, I used the following packages:
 - [OpenCV](https://opencv.org)
 - [Dlib](http://dlib.net)
 
-> **Note**: If you're using Anaconda Navigator, the `dlib` package can be installed from the **conda-forge** channel. On platforms like Google Colab, the required packages are readily available.
-
 ## project Overview
 
 In this project, I have:
